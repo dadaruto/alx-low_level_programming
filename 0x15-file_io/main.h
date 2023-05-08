@@ -1,5 +1,5 @@
-#ifndef main.h
-#define main.h
+#ifndef __MAIN_H__
+#define __MAIN_H__
 
 #include <unistd.h>
 #include <sys/types.h>
